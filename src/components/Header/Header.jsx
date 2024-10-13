@@ -1,5 +1,5 @@
 import s from './Header.module.css'
-import {Container} from '../Container/Container'
+import { Container } from '../Container/Container'
 
 export const Header = () => {
     return(
@@ -8,3 +8,5 @@ export const Header = () => {
         </Container>
     )
 }
+
+export default Header
