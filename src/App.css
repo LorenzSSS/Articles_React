@@ -1,0 +1,13 @@
+@font-face {
+  font-family: Rubik;
+  src: url('./assets/Rubik/Rubik-VariableFont_wght.ttf');
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #FBF8EC;
+}

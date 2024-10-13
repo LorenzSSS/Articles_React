@@ -1,0 +1,7 @@
+/* Универсальный контейнер */
+.Container {
+    max-width: 1288px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 40px;
+}
