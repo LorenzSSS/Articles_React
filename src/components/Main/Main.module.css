@@ -1,1 +1,5 @@
-.Main {}
+.Main {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(376px, 1fr));
+    gap: 40px;
+}

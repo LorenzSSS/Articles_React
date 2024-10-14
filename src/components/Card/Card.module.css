@@ -4,4 +4,47 @@
     width: 376px;
     height: auto;
     max-height: 460px;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-top: 60px;
+}
+
+.image {
+    max-width: 376px;
+    width: 100%;
+    height: auto;
+    max-height: 162px;
+}
+
+.content {
+    padding: 10px;
+}
+
+.date {
+    color: #8F8F8F;
+    font-family: Rubik, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 150%; /* 18px */
+}
+
+.title {
+    color: #414141;
+    font-family: Rubik, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 150%; /* 27px */
+}
+
+.articel {
+    color:#414141;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 24px */
+}
+
+.button {
+    font-weight: 2000px;
 }
